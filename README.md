@@ -1,20 +1,22 @@
 # Olá, eu sou o Flávio Vieira Lima 👋
 
 ### 🎓 Formação Acadêmica
-- **Engenharia de Software** | [cite_start]Faculdade Anhanguera (Em curso).
-- **Técnico em Desenvolvimento de Sistemas** | [cite_start]SENAI Bahia (Concluindo último semestre)[cite: 11, 48, 93].
+- **Engenharia de Software** | Faculdade Anhanguera (Em curso).
+- **Técnico em Desenvolvimento de Sistemas** | SENAI Bahia (Concluindo último semestre).
 
 ### 💻 Sobre Mim
-Sou um entusiasta da tecnologia em transição para a Engenharia de Software. [cite_start]Com 1 ano e 6 meses de experiência na **Raia Drogasil**[cite: 108], desenvolvi forte disciplina operacional e foco em processos, habilidades que hoje aplico no desenvolvimento de sistemas robustos e eficientes.
+Sou um estudante de tecnologia em transição de carreira para a Engenharia de Software. Com 1 ano e 6 meses de experiência na **Raia Drogasil**, desenvolvi forte disciplina operacional e foco em processos — habilidades que hoje aplico no desenvolvimento de sistemas robustos e organizados.
+
+Atualmente, meu foco é o desenvolvimento **Full Stack**, unindo a lógica do Java com a interatividade do React.
 
 ### 🛠 Tecnologias e Ferramentas
-- [cite_start]**Linguagens:** Java, JavaScript e SQL.
-- [cite_start]**Frameworks/Libs:** Spring Boot e React.js[cite: 99, 103].
-- [cite_start]**Banco de Dados:** PostgreSQL (Supabase) e MySQL.
-- [cite_start]**Ferramentas:** Git, GitHub, VS Code e IntelliJ.
+- **Linguagens:** Java, JavaScript, SQL.
+- **Frameworks:** Spring Boot, React.js.
+- **Banco de Dados:** PostgreSQL (Supabase), MySQL.
+- **Ferramentas:** Git, GitHub, VS Code, IntelliJ.
 
-### 🚀 Projeto em Destaque
-- [cite_start]**[VemMercado](link-do-seu-repositorio-aqui):** E-commerce Full Stack desenvolvido de forma colaborativa usando Java e React[cite: 97, 116].
+### 🚀 Destaque
+- **VemMercado:** E-commerce Full Stack desenvolvido de forma colaborativa, simulando regras de negócio reais de varejo.
 
 ---
-[cite_start]📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/flavio-vieira-lima/) [cite: 85]
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/flavio-vieira-lima/) | flaviovieira.lm@gmail.com
