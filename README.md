@@ -5,7 +5,7 @@
 - **Técnico em Desenvolvimento de Sistemas** | SENAI Bahia (Concluindo último semestre).
 
 ### 💻 Sobre Mim
-Sou um estudante de tecnologia em transição de carreira para a Engenharia de Software. Com 1 ano e 6 meses de experiência na **Raia Drogasil**, desenvolvi forte disciplina operacional e foco em processos — habilidades que hoje aplico no desenvolvimento de sistemas robustos e organizados.
+Sou um estudante de tecnologia em transição de carreira para a Engenharia de Software. Na **Raia Drogasil**, desenvolvi forte disciplina operacional e foco em processos — habilidades que hoje aplico no desenvolvimento de sistemas robustos e organizados.
 
 Atualmente, meu foco é o desenvolvimento **Full Stack**, unindo a lógica do Java com a interatividade do React.
 
